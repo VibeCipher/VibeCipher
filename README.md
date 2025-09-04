@@ -48,7 +48,7 @@ Credits and references used in this README:
     <td align="center" width="33%">
       <a href="https://github.com/VibeCipher/Google_Play_Store_Analysis.git">
         <img src="423507587-bb4de371-9bd8-4b7a-ad14-b5cd4190ec18.jpg"
-             alt="CI/CD Pipeline Project"
+             alt="Play Store Analysis"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
@@ -59,17 +59,17 @@ Credits and references used in this README:
       <sub>Tags: Analysis, Machine Learning, Visualisation</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
+      <a href="https://github.com/VibeCipher/Local_AIAgent_Restaurant.git">
+        <img src="maxresdefault.jpg"
+             alt="AI Agent"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Secure AWS VPC</b><br/>
       <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      🔗 <a href="https://github.com/VibeCipher/Local_AIAgent_Restaurant.git">Repo</a>
       <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
+      <sub>Tags: Python, Ollama, AI Agent</sub>
     </td>
   </tr>
 </table>
