@@ -91,9 +91,6 @@ Credits and references used in this README:
 ---
 
 ## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://datascienceportfol.io/sohamchatterjee45)
 
 <a href="https://www.linkedin.com/in/soham-chatterjee-004050243/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
