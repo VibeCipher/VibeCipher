@@ -66,7 +66,7 @@ Credits and references used in this README:
       </a>
       <br/>
       <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      <sub>Designed a AI Agent using local LLM.</sub><br/>
       🔗 <a href="https://github.com/VibeCipher/Local_AIAgent_Restaurant.git">Repo</a>
       <br/>
       <sub>Tags: Python, Ollama, AI Agent</sub>
