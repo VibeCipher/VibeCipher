@@ -101,9 +101,7 @@ Credits and references used in this README:
 <a href="https://www.instagram.com/cipher_that_gamer/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
-<a href="https://chatterjeesoham45@gmail.com" target="blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
+
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
