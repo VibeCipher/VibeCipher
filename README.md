@@ -34,7 +34,7 @@ Credits and references used in this README:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/VibeCipher/Google_Play_Store_Analysis.git">
-        <img src="423507669-9d209333-c402-4462-8c2d-587087949568.jpg"
+        <img src="1746717550341.jpg"
              alt="DeepSeek AI Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
