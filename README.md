@@ -11,7 +11,7 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 🐐 Soham Chatterjee Account
+# 🐐 Soham Chatterjee
 **`Data & AI Enthusiast`** 
 
 ## About Me
