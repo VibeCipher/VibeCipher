@@ -52,7 +52,7 @@ Credits and references used in this README:
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
+      <b>Google Play Analysis</b><br/>
       <sub>Detailed analysis of all the sales in Goggle Play Store.</sub><br/>
       🔗 <a href="https://github.com/VibeCipher/Google_Play_Store_Analysis.git">Repo</a>
       <br/>
@@ -65,7 +65,7 @@ Credits and references used in this README:
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
+      <b>Local AI Agent</b><br/>
       <sub>Designed a AI Agent using local LLM.</sub><br/>
       🔗 <a href="https://github.com/VibeCipher/Local_AIAgent_Restaurant.git">Repo</a>
       <br/>
@@ -93,14 +93,16 @@ Credits and references used in this README:
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:maximus@nextwork.org)
+- [**Portfolio**](https://datascienceportfol.io/sohamchatterjee45)
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/soham-chatterjee-004050243/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<a href="https://www.instagram.com/cipher_that_gamer/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="https://chatterjeesoham45@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
