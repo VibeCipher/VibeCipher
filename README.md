@@ -28,14 +28,14 @@ Credits and references used in this README:
 
 ---
 
-## Projects - showcase
+## Projects - Showcase
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/VibeCipher/Google_Play_Store_Analysis.git">
+      <a href="https://github.com/VibeCipher/Image2Pdf_Scanner.git">
         <img src="1746717550341.jpg"
-             alt="DeepSeek AI Project"
+             alt="Pdf Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
@@ -46,17 +46,17 @@ Credits and references used in this README:
       <sub>Tags: AI, Python, OpenCV</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+      <a href="https://github.com/VibeCipher/Google_Play_Store_Analysis.git">
+        <img src="423507587-bb4de371-9bd8-4b7a-ad14-b5cd4190ec18.jpg"
              alt="CI/CD Pipeline Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <sub>Detailed analysis of all the sales in Goggle Play Store.</sub><br/>
+      🔗 <a href="https://github.com/VibeCipher/Google_Play_Store_Analysis.git">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: Analysis, Machine Learning, Visualisation</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
