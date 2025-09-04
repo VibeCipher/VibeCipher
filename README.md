@@ -17,7 +17,7 @@ Credits and references used in this README:
 ## About Me
 - I love to build and learn about all the promising technologies.
 - Skilled in Python, SQL, Data Analysis and Data Visualisations.
-- Passionate about AI & automation.
+- Exploring AI agents with CrewAI and Ollama through real-world projects.
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
@@ -83,7 +83,8 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibeCipher&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibeCipher&layout=donut)](https://github.com/VibeCipher/github-readme-stats)
 
 ---
 
