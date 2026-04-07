@@ -86,6 +86,8 @@ Credits and references used in this README:
 ![GitHub Streak](https://streak-stats.demolab.com?user=VibeCipher&theme=dracula)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VibeCipher&color=blueviolet&style=flat)
+
+![Soham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VibeCipher&theme=dracula)
 ---
 
 ## Links
