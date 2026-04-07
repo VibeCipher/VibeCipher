@@ -83,9 +83,9 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibeCipher&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibeCipher&layout=compact&theme=dracula)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibeCipher&show_icons=true&theme=dracula&cache_seconds=1800)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibeCipher&layout=compact&theme=dracula&cache_seconds=1800)
 ---
 
 ## Links
