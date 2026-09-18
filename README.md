@@ -87,6 +87,8 @@ Credits and references used in this README:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VibeCipher&color=blueviolet&style=flat)
 
+![snake animation](https://raw.githubusercontent.com/VibeCipher/VibeCipher/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## Links
