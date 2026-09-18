@@ -87,7 +87,6 @@ Credits and references used in this README:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VibeCipher&color=blueviolet&style=flat)
 
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VibeCipher&show_icons=true&theme=dracula)
 ---
 
 ## Links
