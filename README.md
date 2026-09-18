@@ -22,7 +22,7 @@ Credits and references used in this README:
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=pycharm,replit,github,mysql,python,flask,opencv,sklearn,html,css,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,replit,github,mysql,python,flask,opencv,sklearn,html,figma&theme=light)](https://skillicons.dev)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge)
 
