@@ -12,17 +12,19 @@ Credits and references used in this README:
 -->
 
 # 🐐 Soham Chatterjee
-**`Data & AI Enthusiast`** 
+**`Data & AI Enthusiast | ERP Data Operations → Data Analyst`** 
 
 ## About Me
-- I love to build and learn about all the promising technologies.
-- Skilled in Python, SQL, Data Analysis and Data Visualisations.
-- Exploring AI agents with CrewAI and Ollama through real-world projects.
+- Currently working daily with SQL on live transactional/production data.
+- Building data & AI projects — ML models, BI dashboards, and AI agent pipelines — to transition into Data Analyst / BI roles.
+- Skilled in Python, SQL, Power BI, and ML (XGBoost, SHAP).
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=pycharm,replit,github,mysql,python,flask,opencv,sklearn,html,css,figma&theme=light)](https://skillicons.dev)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge)
 
 
 
